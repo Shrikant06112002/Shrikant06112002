@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **shrikantgaikwad129@gmail.com**
+- 📫 Email **shrikantgaikwad129@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PW4EgrIG28J6E9-xY2vHcvKI3AUCpG-m/view?usp=sharing](https://drive.google.com/file/d/1PW4EgrIG28J6E9-xY2vHcvKI3AUCpG-m/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1PW4EgrIG28J6E9-xY2vHcvKI3AUCpG-m/view?usp=sharing](https://drive.google.com/file/d/1PW4EgrIG28J6E9-xY2vHcvKI3AUCpG-m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

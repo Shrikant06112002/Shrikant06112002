@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrikant06112002&show_icons=true&locale=en" alt="Shrikant06112002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrikant06112002&" alt="Shrikant06112002" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Shrikant06112002&theme=dark" alt="GitHub Streak" /></p>
 
